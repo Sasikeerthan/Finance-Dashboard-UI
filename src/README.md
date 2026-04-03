@@ -44,6 +44,8 @@ This repository contains the frontend implementation for the Finance Dashboard a
 
 ## Local Setup Instructions
 
-1. Clone the repository:
+1. Extract the submitted project ZIP file.
+2. Open the extracted folder in your terminal/command prompt.
+3. Install the required dependencies:
    ```bash
-   git clone <https://github.com/Sasikeerthan/Finance-Dashboard-UI.git>
+   npm install
